@@ -36,18 +36,9 @@
           "value": "1; mode=block"
         }
       ]
-    },
-    {
-      "source": "/(.*\\.(css|js|png|jpg|jpeg|gif|ico|svg|woff|woff2|ttf|eot))",
-      "headers": [
-        {
-          "key": "Cache-Control",
-          "value": "public, max-age=31536000, immutable"
-        }
-      ]
     }
   ],
   "env": {
     "GEMINI_API_KEY": "AIzaSyBAerdEMnzRjwcUfOAphUtoWCGQLQ119jo"
   }
-} 
+}
