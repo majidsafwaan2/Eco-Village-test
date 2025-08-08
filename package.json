@@ -1,0 +1,35 @@
+{
+  "name": "ecovillage-demo",
+  "version": "1.0.0",
+  "description": "EcoVillage of Loudoun County - Sustainable Living Community Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'Static site - no build required'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "ecovillage",
+    "sustainable-living",
+    "community",
+    "loudoun-county",
+    "virginia",
+    "green-building",
+    "environmental",
+    "conservation"
+  ],
+  "author": "EcoVillage of Loudoun County",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/majidsafwaan2/Eco-Village-test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/majidsafwaan2/Eco-Village-test/issues"
+  },
+  "homepage": "https://ecovillageloudoun.com",
+  "devDependencies": {},
+  "dependencies": {}
+}
